@@ -98,3 +98,10 @@
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 notes-analytics-events.apple.com
+
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 adserver.unityads.unity3d.com
+
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 appmetrica.yandex.ru
