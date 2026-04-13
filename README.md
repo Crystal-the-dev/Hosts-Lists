@@ -1,9 +1,9 @@
 # Hosts Lists
 
-[![GitHub stars](https://img.shields.io/github/stars/OWNER/REPO?style=flat-square)]()
-[![GitHub issues](https://img.shields.io/github/issues/OWNER/REPO?style=flat-square)]()
-[![Last commit](https://img.shields.io/github/last-commit/OWNER/REPO?style=flat-square)]()
-[![License](https://img.shields.io/github/license/OWNER/REPO?style=flat-square)]()
+[![GitHub stars](https://img.shields.io/github/stars/Crystal-the-dev/Hosts-Lists?style=flat-square)]()
+[![GitHub issues](https://img.shields.io/github/issues/Crystal-the-dev/Hosts-Lists?style=flat-square)]()
+[![Last commit](https://img.shields.io/github/last-commit/Crystal-the-dev/Hosts-Lists?style=flat-square)]()
+[![License](https://img.shields.io/github/license/Crystal-the-dev/Hosts-Lists?style=flat-square)]()
 
 This repository provides extended hosts and block lists that can be used freely with Pi-hole, DNS filters, and other ad blocking systems.
 
